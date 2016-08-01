@@ -4,7 +4,7 @@
 
 ESP8366,3軸ジャイロセンサー,3軸加速度センサー,気象センサー,フルカラーLED,有機ELディスプレイを統合した
 [7IMUduino](http://www.papa.to/kinowiki/index.php/Products/7IMUduino) の作例として、
-OpenWetherMap(http://openweathermap.org/)から3時間予報をWiFi経由でとってきて表示する時計を作りました。
+OpenWetherMap(http://openweathermap.org/) から3時間予報をWiFi経由でとってきて表示する時計を作りました。
 
 ## フィーチャー
 
