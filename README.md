@@ -32,10 +32,10 @@ Arduino IDEのボードマネージャに[Staging version](http://arduino.esp826
 なお、ライブラリはデフォルトでは各ホームディレクトリのArduino/librariesディレクトリに置きます。
 
 >+libraries  
->　　+NTP
->　　+NeoPixelBus-master
->　　+Time
->　　+esp8266-oled-ssd1306-2.0.2  
+>　　+NTP  
+>　　+NeoPixelBus-master  
+>　　+Time  
+>　　+esp8266-oled-ssd1306-2.0.2    
 
 openweather_clock.inoをクリックするとArduino IDEが起動します。ボードタイプは以下のように設定してください。
 
